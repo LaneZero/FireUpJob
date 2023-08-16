@@ -10,9 +10,7 @@
 <div  align=center  markdown="1">
   
 
-![Intro](https://user-images.githubusercontent.com/46918547/261140117-7f6c003c-1442-4298-802d-b0e5a7bda3e9.jpg)
-[![Resume](https://img.shields.io/badge/Resume-blue)](https://github.com/LaneZero/FireUpJob/tree/main/Resume) [![issues](https://img.shields.io/github/issues/LaneZero/FireUpJob/resume)](https://github.com/soheilsec/WAP-Interview/issues) [![Last Modified](https://img.shields.io/badge/Last%20Modified-2023%2F08%2F17-DD571C)](https://github.com/soheilsec/WAP-Interview)
-  
+[![Resume](https://img.shields.io/badge/Resume-blue)](https://github.com/LaneZero/FireUpJob/tree/main/Resume) [![issues](https://img.shields.io/github/issues/LaneZero/FireUpJob/resume)](https://github.com/LaneZero/FireUpJob/issues) [![Last Modified](https://img.shields.io/badge/Last%20Modified-2023%2F08%2F17-DD571C)](https://github.com/LaneZero/FireUpJob)
 
 <br>
 
@@ -388,3 +386,5 @@ Fuzzy Skill موردی هست که در رزومه بهتر است نوشته ن
 
 
 </div>
+
+[![Resume](https://img.shields.io/badge/Resume-blue)](https://github.com/LaneZero/FireUpJob/tree/main/Resume) [![issues](https://img.shields.io/github/issues/LaneZero/FireUpJob/resume)](https://github.com/LaneZero/FireUpJob/issues) [![Last Modified](https://img.shields.io/badge/Last%20Modified-2023%2F08%2F17-DD571C)](https://github.com/LaneZero/FireUpJob)
