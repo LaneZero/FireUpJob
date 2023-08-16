@@ -1,6 +1,6 @@
 <div align="left" markdown="1">
 
-[**بحث و گفت و گو**](https://github.com/LaneZero/FireUpJob/issues) &nbsp;&nbsp;&nbsp; [صفحه اصلی](https://github.com/LaneZero/FireUpJob)
+[**بحث و گفت و گو و ارسال مشکلات**](https://github.com/LaneZero/FireUpJob/issues) &nbsp;&nbsp;&nbsp; [صفحه اصلی](https://github.com/LaneZero/FireUpJob)
 </div>
 
 <div align=center markdown="1">
