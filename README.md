@@ -7,6 +7,7 @@
 <div align=center markdown="1">
 
 ![Intro](https://user-images.githubusercontent.com/46918547/260325661-63e1da97-8473-4934-8e9c-d0209109b8eb.jpg)
+
 [
 ![Resume](https://img.shields.io/badge/Resume-blue)](https://github.com/LaneZero/FireUpJob/tree/main/Resume) [![issues](https://img.shields.io/github/issues/LaneZero/FireUpJob/resume)](https://github.com/LaneZero/FireUpJob/issues) [![Last Modified](https://img.shields.io/badge/Last%20Modified-2023%2F08%2F17-DD571C)](https://github.com/LaneZero/FireUpJob)
 
