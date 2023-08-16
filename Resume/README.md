@@ -11,7 +11,7 @@
   
 
 ![Intro](https://user-images.githubusercontent.com/46918547/261140117-7f6c003c-1442-4298-802d-b0e5a7bda3e9.jpg)
-
+[![Resume](https://img.shields.io/badge/Resume-blue)](https://github.com/LaneZero/FireUpJob/tree/main/Resume) [![issues](https://img.shields.io/github/issues/LaneZero/FireUpJob/resume)](https://github.com/soheilsec/WAP-Interview/issues) [![Last Modified](https://img.shields.io/badge/Last%20Modified-2023%2F08%2F17-DD571C)](https://github.com/soheilsec/WAP-Interview)
   
 
 <br>
@@ -381,7 +381,9 @@ Fuzzy Skill موردی هست که در رزومه بهتر است نوشته ن
 ## Extra
 
 🎬 در این قسمت چنل ها و ویدیوهایی که در یوتوب برای ساخت رزومه مفید هستند را لیست خواهیم کرد.
+
 🟨 [وبینار تخصصی رزومه نویسی و مصاحبه- قسمت اول | How to write a great resume?](https://www.youtube.com/watch?v=Gt2AQG-u8xM)
+
 🟨 [وبینار تخصصی رزومه نویسی و مصاحبه- قسمت دوم | How to write a great resume?](https://www.youtube.com/watch?v=Gt2AQG-u8xM)
 
 
