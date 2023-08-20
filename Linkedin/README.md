@@ -50,10 +50,32 @@
 
 <div  align=center  markdown="1">
 
-![Linkin02](https://github.com/LaneZero/FireUpJob/assets/46918547/f46501cf-c364-4620-bfc1-3a33c82b14d7)
+![Linkin02](https://user-images.githubusercontent.com/46918547/261859400-f46501cf-c364-4620-bfc1-3a33c82b14d7.png)
 
 </div>
 
 <div  d="rtl"  markdown="1">
+
+در مرحله بعد از شما First Name و Last Name را می‌خواهد که به ترتیب نام و نام خانوادگی خود را وارد کنید، چون از طریق لینکدین قرار هست کاریابی هم انجام دهیم بهتر است که اطلاعات را صحیح وارد نمایید، روی Continue کلیک کنید، شاید در این مرحله از شما بخواهد که با حل‌کردن یک کپچا Verification را انجام دهید.
+
+در مرحله دوم از شما Location یا جایی که سکونت دارید را می‌خواهد، اگر طی 2 3 ماه آینده قرار هست به کشور دیگری نقل‌مکان کنید مشکلی ندارد اسم آن کشور را اینجا انتخاب کنید؛ ولی اگر غیر این است همان کشوری که سکونت دارید را انتخاب کنید.
+
+</div>
+
+<div  align=center  markdown="1">
+
+![Linkin02](https://user-images.githubusercontent.com/46918547/261860152-cbe4e1f6-81d3-42df-980f-f3cc2c9e1cf4.png)
+
+</div>
+
+<div  d="rtl"  markdown="1">
+
+در مرحله Most recent job title اگر دانشجو هستید و تجربه شغلی ندارید گزینه I’m a Student را انتخاب کنید؛ ولی اگر تجربه کار دارید آخرین عنوان شغلی که داشتید، آن را وارد کنید، مثلاً Sotware Developer یا Doctor of Medicine و.. ، بعد در Employment type نوع اشتغالی که داشتید وارد نمایید، به‌عنوان‌مثال تمام‌وقت بوده است یا ساعتی و در قسمت Most recent company اسم آخرین شرکتی که در آن مشغول به کار بوده‌اید را انتخاب کنید.
+
+</div>
+
+<div  align=center  markdown="1">
+
+![Linkin04](https://user-images.githubusercontent.com/46918547/261863268-d4533b3b-59a8-4174-a8e9-d29427fe9d65.png)
 
 </div>
