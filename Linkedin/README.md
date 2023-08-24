@@ -116,5 +116,10 @@
 
 با این ویژگی‌ها در نظر، بهترین عکس پروفایل برای لینکدین آن است که به طور حرفه‌ایانه و محترمانه شما را نشان دهد و با فعالیت‌های شغلی و حرفه‌ایتان هماهنگ باشد.
 
+</div>
+
+<div  align=center  markdown="1">
+
+![Intro LinkedIN](https://user-images.githubusercontent.com/46918547/263095052-afe7ba95-30aa-42ec-a92b-3cc79d6eb1bc.jpeg)
 
 </div>
