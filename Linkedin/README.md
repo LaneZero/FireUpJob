@@ -88,6 +88,7 @@
 <div  align=center  markdown="1">
 
 ![Linkin04](https://user-images.githubusercontent.com/46918547/262328872-bd9b68f4-6fc4-40ee-b09c-37193758d8a0.png)
+
 </div>
 
 <div  d="rtl"  markdown="1">
@@ -132,7 +133,7 @@
 
 <div  align=center  markdown="1">
 
-![Intro LinkedIN](![Linkin07](https://github-production-user-asset-6210df.s3.amazonaws.com/46918547/263133699-fad3bca7-1f05-4fd8-b446-3ad6bdc94b4e.png)
+![Linkin07](https://github-production-user-asset-6210df.s3.amazonaws.com/46918547/263133699-fad3bca7-1f05-4fd8-b446-3ad6bdc94b4e.png)
 
 </div>
 
@@ -154,5 +155,22 @@
 ![Linkin07](https://user-images.githubusercontent.com/46918547/263139413-4557850a-3017-49ae-b14c-2c9c0f552bcf.png)
 
 نیاز به پر کردن بقیه موارد نیست و روی Save کلیک کنید.
+
+</div>
+
+<div  d="rtl"  markdown="1">
+
+### Skills
+
+از گزینه Add Profile Section گزینه Add Skills را انتخاب می‌کنیم، مهارت‌های مهمی که با حرفه‌ای که در موردش دنبال شغل می‌گردید را اینجا باید وارد کنید، مثلاً به‌عنوان یک توسعه‌دهنده اندروید Skillsهای زیر بسیار مهم است، از گوگل و هوش مصنوعی خیلی در این مورد می‌توانید کمک بگیرید.
+نکته‌ای که باید به آن توجه کنید اگر شاغل هستید و این مهارت را دارید استفاده می‌کنید در قسمت Experience تیک کنار عنوان شغلی‌تان را بزنید، همین‌طور اگر در زمان تحصیل از این مهارت استفاده می‌کردید تیک کنار محل تحصیل در قسمت Education را بزنید.
+
+</div>
+
+<div  align=center  markdown="1">
+
+![Linkin07](https://user-images.githubusercontent.com/46918547/263475398-5f5ec514-1b13-4196-bc7d-6c87fe3502f0.png)
+
+بهتر است بیشتر از 20 مورد مهارت وارد نکنید.
 
 </div>
